@@ -1,7 +1,7 @@
 #!/bin/bash
 # A script to enumerate web-sites using google dorks
-# Author: Ivan Glinkin
-# Contact: ivan.o.glinkin@gmail.com
+# Author: Rooteck
+# Contact: Rooteck@mail.com
 # Release date: May 3, 2020
 
 # Variables
